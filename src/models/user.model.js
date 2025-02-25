@@ -30,7 +30,7 @@ const userSchema = new mongoose.Schema(
             type : String, //cloudniary url
             required : true
         },
-        covrerImage : {
+        coverImage : {
             type : String, //cloudniaryurl url
         },
         password : {
